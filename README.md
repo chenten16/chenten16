@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chenten16&label=Profile%20views&color=0e75b6&style=flat" alt="chenten16" /> </p>
 
-- 💬 Ask me about **Laravel, PHP, JavaScript, VueJS, HTML5, CSS3, TailwindCSS**
+- 💬 Ask me about **Laravel, PHP, JavaScript/Typescript, VueJS, HTML5, CSS3, TailwindCSS**
 
 - 📫 Reach me at: **mohammedfilalitalha@gmail.com**
 
